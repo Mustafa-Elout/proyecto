@@ -9,7 +9,7 @@ import javax.persistence.Table;
 @Table(name = "consulta_examen")
 @IdClass(ConsultaExamenPK.class)
 public class ConsultaExamen {
-//Comentario
+//Comentariozdcfd
 	@Id
 	private Consulta consulta;
 
